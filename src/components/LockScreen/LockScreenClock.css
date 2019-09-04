@@ -1,0 +1,22 @@
+.LockScreenClock {
+    display: flex;
+    flex-direction: column;
+    flex-wrap: nowrap;
+    justify-content: center;
+    text-align: center;
+    color: white;
+}
+.LockScreenTime {
+  order: 1;
+  font-size: 95px;
+  font-weight: 600;
+  padding-bottom: 5px;
+  align-items: baseline;
+}
+.LockScreenDate {
+  order: 2;
+  font-size: 35px;
+}
+.LockScreenNotifications{
+  order : 3;
+}
