@@ -1,5 +1,7 @@
 This project is being created as Personal Portfolio to showcase my skills as a Web Developer. It is being developed as a part of Pesto Tech's 1st month's curriculum. Hope to learn new things on the way. :)
 
+Click here to see a live version: https://p-racoon.github.io/ubuntu-portfolio-v2/
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
