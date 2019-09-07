@@ -12,7 +12,7 @@ function OS() {
       <Router>
         <Switch>
           {/* <Route exact path="/" component={LockScreen} /> */}
-          <Route path="/desktop" component={Desktop} />
+          <Route path="/" component={Desktop} />
           {/* <Route path="/desktop" component={Desktop} /> */}
           {/* <Route path="/user" component={UserScreen} /> */}
         </Switch>

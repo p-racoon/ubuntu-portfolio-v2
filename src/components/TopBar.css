@@ -1,0 +1,24 @@
+.topBar {
+  position: fixed;
+  display: flex;
+  flex-direction: row;
+  flex-wrap: nowrap;
+  background-color: #1d1d1d;
+  /* background-color: #1E1E1E; */
+  color: whitesmoke;
+  width: 99vw;
+  padding: 5px 10px;
+  justify-content: space-between;
+}
+.leftBarContent {
+  order: 1;
+  flex-basis: auto;
+}
+.centeredBarContent {
+  order: 2;
+  flex-basis: auto;
+}
+.rightBarContent {
+  order: 3;
+  flex-basis: auto;
+}
