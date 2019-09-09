@@ -46,3 +46,20 @@ You don’t have to ever use `eject`. The curated feature set is suitable for sm
 You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
 
 To learn React, check out the [React documentation](https://reactjs.org/).
+
+### Week - 1
+1. Lock screen [Done]
+2. Background [Done]
+3. Initializing and hosting the project online [[Done]]
+4. Clock Component [Done]
+5. Background sizing [Done]
+
+### Week - 2
+
+1. Re factoring, Code structure, to include helper functions, and Atomicity [Done]
+2. Choose and Include ubuntu Icon packs [Done]
+3. Top Menu bar [Done]
+4. Activities Bar [Done]
+<!-- 5. Work on Keyboard (Quick access)  -->
+
+### week - 3

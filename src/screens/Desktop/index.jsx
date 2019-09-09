@@ -1,12 +1,16 @@
 import React from "react";
 import TopBar from "../../components/TopBar";
 import SideBar from "../../components/SideBar";
+import "./index.css";
 
 export default function Desktop() {
   return (
-    <div className="mainDesktop">
+    <div className="fullDesktop">
       <TopBar />
-      <SideBar />
+      <div className="mainDesktop">
+        <SideBar />
+        {/* <MainDesktop /> */}
+      </div>
     </div>
   );
 }

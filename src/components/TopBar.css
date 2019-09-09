@@ -1,24 +1,21 @@
 .topBar {
-  position: fixed;
-  display: flex;
+  display: inline-flex;
   flex-direction: row;
-  flex-wrap: nowrap;
-  background-color: #1d1d1d;
-  /* background-color: #1E1E1E; */
+  /* background-color: #1d1d1d; */
+  background-color: #1e1e1e;
   color: whitesmoke;
-  width: 99vw;
-  padding: 5px 10px;
+  width: 100%;
   justify-content: space-between;
 }
 .leftBarContent {
+  padding: 5px 10px;
   order: 1;
-  flex-basis: auto;
 }
 .centeredBarContent {
+  padding: 5px 10px;
   order: 2;
-  flex-basis: auto;
 }
 .rightBarContent {
   order: 3;
-  flex-basis: auto;
+  padding: 5px 10px;
 }

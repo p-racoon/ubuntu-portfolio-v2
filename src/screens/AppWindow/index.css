@@ -1,0 +1,27 @@
+.appWindow {
+  width: 60vw;
+  height: 80vh;
+  display: flex;
+  flex-direction: row;
+  /* top bar: B292C */
+  /* highlight : ED5226 */
+  /* background-color: #F5F6F8; */
+}
+.windowTopBar {
+  color: whitesmoke;
+  background-color: #2b292c;
+  width: 100%;
+  text-align: center;
+}
+.windowSideBar {
+  display: flex;
+  flex-direction: column;
+  background-color: white;
+  width: 30%;
+}
+.mainWindow {
+  display: flex;
+  flex-direction: column;
+  background-color: #f5f6f8;
+  width: 70%;
+}
