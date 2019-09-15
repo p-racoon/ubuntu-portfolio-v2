@@ -1,8 +1,6 @@
 .LockScreenClock {
     /* display: flex;
     flex-direction: column; */
-    flex-wrap: nowrap;
-    justify-content: center;
     text-align: center;
     color: white;
 }
