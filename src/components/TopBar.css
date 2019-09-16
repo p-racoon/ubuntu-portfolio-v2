@@ -19,6 +19,11 @@
   order: 3;
   padding: 5px 10px;
 }
+.rightBarContent i{
+  font-weight: lighter;
+  padding-left: 10px;
+  filter: brightness(0) invert(1);  
+}
 .hamburgerIcon {
   display: none;
 }
