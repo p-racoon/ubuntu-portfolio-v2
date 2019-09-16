@@ -12,7 +12,12 @@ export default function TopBar() {
         </a>
         <span>Prasham's Portfolio</span>
       </div>
-      <div className="centeredBarContent">Sep 7 09:19</div>
+      <div className="centeredBarContent">
+        Sep {new Date().getDate()}{" "}
+        {`${String(new Date().getHours()).padStart(2, "0")}:${String(
+          new Date().getMinutes()
+        ).padStart(2, "0")}`}
+      </div>
       <div className="rightBarContent">
         <a href="https://linkedin.com/in/prashesh09/" target="_blank">
           <i className="fab fa-linkedin-in"></i>

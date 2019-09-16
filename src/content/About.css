@@ -1,0 +1,25 @@
+.AboutBody {
+  display: flex;
+  flex-direction: column;
+  align-content: center;
+  justify-content: center;
+  text-align: center;
+  width: 80%;
+  height: 100%;
+  margin-left: 10%;
+  margin-right: 10%;
+  color: #333333;
+}
+.ProfilePic {
+  margin-top: 20px;
+  display: flex;
+  justify-content: center;
+  flex-direction: row;
+}
+.ProfilePic img {
+  border: 1px solid #e95420;
+  border-top-left-radius: 50% 50%;
+  border-top-right-radius: 50% 50%;
+  border-bottom-right-radius: 50% 50%;
+  border-bottom-left-radius: 50% 50%;
+}

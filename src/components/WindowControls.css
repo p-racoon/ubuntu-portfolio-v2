@@ -1,0 +1,21 @@
+.WindowControls {
+  display: inline-flex;
+  justify-content: space-evenly;
+  /* padding-left: 1px; */
+}
+.WindowControlButton {
+  border-radius: 50%;
+  text-align: center;
+  padding: 2px;
+}
+.WindowControlButton:hover {
+  /* border: 0.5px solid #e95420; */
+}
+.WindowControlIcon {
+  vertical-align: middle;
+  filter: brightness(0) invert(1);
+}
+.WindowControlIcon:hover {
+  border: 0.5px solid #e95420;
+  /* background-color: #e95420; */
+}

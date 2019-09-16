@@ -1,0 +1,24 @@
+.WebExpBody {
+  display: flex;
+  color: #333333;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  width: 70%;
+  margin-left: 15%;
+  margin-top: 10%;
+}
+.ExpCard {
+  display: flex;
+  flex-direction: row;
+  margin: 5px;
+}
+.ExpImage {
+  text-align: center;
+  align-items: center;
+}
+.ExpImage img {
+  /* height: 50px; */
+  width: 60%;
+  max-width: 200px;
+}

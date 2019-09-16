@@ -48,6 +48,7 @@ You can learn more in the [Create React App documentation](https://facebook.gith
 To learn React, check out the [React documentation](https://reactjs.org/).
 
 ### Week - 1
+
 1. Lock screen [Done]
 2. Background [Done]
 3. Initializing and hosting the project online [[Done]]
@@ -60,6 +61,11 @@ To learn React, check out the [React documentation](https://reactjs.org/).
 2. Choose and Include ubuntu Icon packs [Done]
 3. Top Menu bar [Done]
 4. Activities Bar [Done]
-<!-- 5. Work on Keyboard (Quick access)  -->
+5. Work on Keyboard (Quick access) [Scrapped]
 
 ### week - 3
+
+1. [ ] Finalize Window Screens
+2. [ ] Create all pages, About, Contact, and projects.
+3. [ ] Host all my personal projects
+4. [ ] Create User Screen (Contact form)

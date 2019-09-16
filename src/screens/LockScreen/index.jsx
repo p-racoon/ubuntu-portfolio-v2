@@ -7,7 +7,7 @@ export default function LockScreen(props) {
   return (
     <div
       className="LockScreen"
-      onClick={() => props.history.replace("/desktop")}
+      onClick={() => props.history.replace("/desktop/About")}
     >
       {/* <Link to="/desktop"> */}
       <LockScreenClock />

@@ -9,11 +9,11 @@ export default function SideBar(props) {
       altText: "About",
       src: "/images/icons/app/about.svg"
     },
-    {
-      name: "WebExperience",
-      altText: "My Web Experience",
-      src: "/images/icons/app/google-chrome.svg"
-    },
+    // {
+    //   name: "WebExperience",
+    //   altText: "My Web Experience",
+    //   src: "/images/icons/app/google-chrome.svg"
+    // },
     {
       name: "ContactMe",
       altText: "Contacts & Social Links",
