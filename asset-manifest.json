@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/ubuntu-portfolio-v2/static/css/main.540a3281.chunk.css",
-    "main.js": "/ubuntu-portfolio-v2/static/js/main.903917c8.chunk.js",
-    "main.js.map": "/ubuntu-portfolio-v2/static/js/main.903917c8.chunk.js.map",
+    "main.css": "/ubuntu-portfolio-v2/static/css/main.eb100ff9.chunk.css",
+    "main.js": "/ubuntu-portfolio-v2/static/js/main.98f3180e.chunk.js",
+    "main.js.map": "/ubuntu-portfolio-v2/static/js/main.98f3180e.chunk.js.map",
     "runtime~main.js": "/ubuntu-portfolio-v2/static/js/runtime~main.02a49cdb.js",
     "runtime~main.js.map": "/ubuntu-portfolio-v2/static/js/runtime~main.02a49cdb.js.map",
-    "static/js/2.7d77ce3e.chunk.js": "/ubuntu-portfolio-v2/static/js/2.7d77ce3e.chunk.js",
-    "static/js/2.7d77ce3e.chunk.js.map": "/ubuntu-portfolio-v2/static/js/2.7d77ce3e.chunk.js.map",
+    "static/js/2.28ccb4d0.chunk.js": "/ubuntu-portfolio-v2/static/js/2.28ccb4d0.chunk.js",
+    "static/js/2.28ccb4d0.chunk.js.map": "/ubuntu-portfolio-v2/static/js/2.28ccb4d0.chunk.js.map",
     "index.html": "/ubuntu-portfolio-v2/index.html",
-    "precache-manifest.4709d02d8c369ec4b7c7de75107eee21.js": "/ubuntu-portfolio-v2/precache-manifest.4709d02d8c369ec4b7c7de75107eee21.js",
+    "precache-manifest.2d5de0134276bbbeba281cd9e06d4d06.js": "/ubuntu-portfolio-v2/precache-manifest.2d5de0134276bbbeba281cd9e06d4d06.js",
     "service-worker.js": "/ubuntu-portfolio-v2/service-worker.js",
-    "static/css/main.540a3281.chunk.css.map": "/ubuntu-portfolio-v2/static/css/main.540a3281.chunk.css.map"
+    "static/css/main.eb100ff9.chunk.css.map": "/ubuntu-portfolio-v2/static/css/main.eb100ff9.chunk.css.map"
   }
 }
