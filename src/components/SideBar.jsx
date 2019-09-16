@@ -10,17 +10,17 @@ export default function SideBar(props) {
       src: "/images/icons/app/about.svg"
     },
     {
-      name: "GoogleChrome",
+      name: "WebExperience",
       altText: "My Web Experience",
       src: "/images/icons/app/google-chrome.svg"
     },
     {
-      name: "MailClient",
+      name: "ContactMe",
       altText: "Contacts & Social Links",
       src: "/images/icons/app/mail-app.png"
     },
     {
-      name: "Tools",
+      name: "TechnicalSkills",
       altText: "Technical Skills",
       src: "/images/icons/app/tools.png"
     },
