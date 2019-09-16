@@ -5,26 +5,33 @@
   /* height: 42px; */
   margin: 3px;
 }
+
 .appIconContainer {
   margin: 2px;
   border-radius: 5%;
 }
+
 .appIconContainer:hover {
   background-color: gray;
 }
+
 .lastAppIcon {
   margin-top: auto;
 }
+
 .lastAppIcon img {
   filter: brightness(0) invert(1);
 }
+.selectedNav {
+  border-right: 1.5px solid #e95420;
+}
+
 .tooltip {
   /* display:inline-block; */
   position: relative;
   /* border-bottom:1px dotted #666; */
   /* text-align:left; */
 }
-
 .tooltip .right {
   min-width: 0px;
   top: 50%;

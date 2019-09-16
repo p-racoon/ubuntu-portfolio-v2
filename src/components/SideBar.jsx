@@ -2,7 +2,7 @@ import React from "react";
 import "./SideBar.css";
 import SideBarAppIcons from "./SideBarAppIcons";
 
-export default function SideBar() {
+export default function SideBar(props) {
   const appIcons = [
     {
       name: "About",

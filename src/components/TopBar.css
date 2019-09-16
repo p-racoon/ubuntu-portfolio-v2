@@ -19,11 +19,11 @@
   order: 3;
   padding: 5px 10px;
 }
-.hamburgerIcon{
+.hamburgerIcon {
   display: none;
 }
 @media only screen and (max-width: 600px) {
-  .hamburgerIcon{
-    display: inline;
+  .hamburgerIcon {
+    /* display: inline-flex; */
   }
 }
