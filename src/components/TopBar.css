@@ -19,7 +19,7 @@
   order: 3;
   padding: 5px 10px;
 }
-.rightBarContent i{
+.rightBarContent a{
   font-weight: lighter;
   padding-left: 10px;
   filter: brightness(0) invert(1);  
