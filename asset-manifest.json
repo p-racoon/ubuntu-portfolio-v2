@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/ubuntu-portfolio-v2/static/css/main.eb100ff9.chunk.css",
-    "main.js": "/ubuntu-portfolio-v2/static/js/main.1615af4b.chunk.js",
-    "main.js.map": "/ubuntu-portfolio-v2/static/js/main.1615af4b.chunk.js.map",
-    "runtime~main.js": "/ubuntu-portfolio-v2/static/js/runtime~main.96934d61.js",
-    "runtime~main.js.map": "/ubuntu-portfolio-v2/static/js/runtime~main.96934d61.js.map",
-    "static/js/2.81a7a8d4.chunk.js": "/ubuntu-portfolio-v2/static/js/2.81a7a8d4.chunk.js",
-    "static/js/2.81a7a8d4.chunk.js.map": "/ubuntu-portfolio-v2/static/js/2.81a7a8d4.chunk.js.map",
+    "main.js": "/ubuntu-portfolio-v2/static/js/main.1bde0aba.chunk.js",
+    "main.js.map": "/ubuntu-portfolio-v2/static/js/main.1bde0aba.chunk.js.map",
+    "runtime~main.js": "/ubuntu-portfolio-v2/static/js/runtime~main.02a49cdb.js",
+    "runtime~main.js.map": "/ubuntu-portfolio-v2/static/js/runtime~main.02a49cdb.js.map",
+    "static/js/2.28ccb4d0.chunk.js": "/ubuntu-portfolio-v2/static/js/2.28ccb4d0.chunk.js",
+    "static/js/2.28ccb4d0.chunk.js.map": "/ubuntu-portfolio-v2/static/js/2.28ccb4d0.chunk.js.map",
     "index.html": "/ubuntu-portfolio-v2/index.html",
-    "precache-manifest.47493b0d273e3fd4d6af00ad99adf8b9.js": "/ubuntu-portfolio-v2/precache-manifest.47493b0d273e3fd4d6af00ad99adf8b9.js",
+    "precache-manifest.ef4c0c41aa80c93cbbf28ede902ac55d.js": "/ubuntu-portfolio-v2/precache-manifest.ef4c0c41aa80c93cbbf28ede902ac55d.js",
     "service-worker.js": "/ubuntu-portfolio-v2/service-worker.js",
     "static/css/main.eb100ff9.chunk.css.map": "/ubuntu-portfolio-v2/static/css/main.eb100ff9.chunk.css.map"
   }
