@@ -1,23 +1,27 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "c52ef36e2f7457b345224a5ecd8d7c25",
+    "revision": "6c54295b1f2002b3e7ab162dd3d7ce19",
     "url": "/ubuntu-portfolio-v2/index.html"
   },
   {
-    "revision": "26a74bab87edf1ac6886",
-    "url": "/ubuntu-portfolio-v2/static/css/main.b6825bbb.chunk.css"
+    "revision": "031e617dedb2d00f00a4",
+    "url": "/ubuntu-portfolio-v2/static/css/main.00f80485.chunk.css"
   },
   {
-    "revision": "105bf556e5f98df26530",
-    "url": "/ubuntu-portfolio-v2/static/js/2.cb181120.chunk.js"
+    "revision": "f4dd992986b265d0743b",
+    "url": "/ubuntu-portfolio-v2/static/js/2.8d03cf80.chunk.js"
   },
   {
-    "revision": "26a74bab87edf1ac6886",
-    "url": "/ubuntu-portfolio-v2/static/js/main.d5cfd7a2.chunk.js"
+    "revision": "031e617dedb2d00f00a4",
+    "url": "/ubuntu-portfolio-v2/static/js/main.0da7f9fe.chunk.js"
   },
   {
     "revision": "b000abf517c9a4ecd2aa",
     "url": "/ubuntu-portfolio-v2/static/js/runtime~main.02a49cdb.js"
+  },
+  {
+    "revision": "b571d69f726c7bddec9fa0f283d1c0c4",
+    "url": "/ubuntu-portfolio-v2/static/media/about.b571d69f.svg"
   },
   {
     "revision": "ea2645aee2b16e4518822fa6fc66dc89",
@@ -30,6 +34,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "106b7c9b6c3e451399fd82118dc38b5b",
     "url": "/ubuntu-portfolio-v2/static/media/system-shutdown-symbolic.106b7c9b.svg"
+  },
+  {
+    "revision": "19fbf4b30714ca9cbfed23dd4747917f",
+    "url": "/ubuntu-portfolio-v2/static/media/view-app-grid-symbolic.19fbf4b3.svg"
   },
   {
     "revision": "c13cd61c3ec1d9c54545af57d8f4f993",
