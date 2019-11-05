@@ -5,11 +5,12 @@
   flex-direction: row;
   margin-left: 30%;
   margin-top: 5%;
+  color: #333;
   /* top bar: B292C */
   /* highlight : ED5226 */
   /* background-color: #F5F6F8; */
 }
-.appWindowHidden{
+.appWindowHidden {
   display: none;
 }
 .windowTopBar {
@@ -28,9 +29,22 @@
   background-color: white;
   width: 30%;
 }
+.mainWindow::-webkit-scrollbar {
+  width: 0.25em;
+}
+
+.mainWindow::-webkit-scrollbar-track {
+  -webkit-box-shadow: inset 0 0 6px rgba(0, 0, 0, 0.3);
+}
+
+.mainWindow::-webkit-scrollbar-thumb {
+  background-color: darkgrey;
+  outline: 1px solid slategrey;
+}
 .mainWindow {
   display: flex;
   flex-direction: column;
   background-color: #f5f6f8;
+  overflow: auto;
   width: 100%;
 }

@@ -7,14 +7,15 @@
     "react": "^16.9.0",
     "react-dom": "^16.9.0",
     "react-router-dom": "^5.0.1",
-    "react-scripts": "3.1.1"
+    "react-scripts": "3.1.1",
+    "react-typist": "^2.0.5"
   },
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
     "eject": "react-scripts eject",
-    "predeploy": "npm run build",
+    "predeploy": "yarn run build",
     "deploy": "gh-pages -d build"
   },
   "eslintConfig": {
@@ -32,5 +33,5 @@
       "last 1 safari version"
     ]
   },
-  "homepage": "https://p-racoon.github.io/ubuntu-portfolio-v2"
+  "homepage": "https://p-racoon.github.io/ubuntu-portfolio-v2/"
 }

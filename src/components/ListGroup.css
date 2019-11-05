@@ -1,0 +1,20 @@
+.list-element{
+    background-color: white;
+    width: 90%;
+    border: #cdcdcd solid 1px;
+    margin-top: -1px;
+    padding: 2% 2%;
+}
+.list-element:hover{
+    background-color: #DAD7D3;
+}
+.list-element img{
+    /* margin: 0px;
+    padding: 0px;
+    max-width: 30%;
+    max-height: auto; */
+}
+.list-element a{
+    color: #333;
+    text-decoration: none;
+}

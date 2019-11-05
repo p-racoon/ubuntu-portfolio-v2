@@ -3,6 +3,8 @@ import AppWindow from "../screens/AppWindow";
 import About from "../content/About";
 import WebExp from "../content/WebExp";
 import Contact from "../content/Contact";
+import CertificatesSkills from "../content/CertificatesSkills";
+import Projects from "../content/Projects";
 import Help from "../content/Help";
 
 export default function WindowManager(props) {
@@ -20,9 +22,21 @@ export default function WindowManager(props) {
       name: "Contact Me",
       content: <Contact />
     },
+    Projects:{
+      name: "Projects",
+      content: <Projects/>
+    },
+    Experience:{
+      name: "Experience",
+      content: <WebExp />
+    },
     TechnicalSkills: {
       name: "Technical Skills",
       content: <WebExp />
+    },
+    CertificatesSkills:{
+      name: "Certificates and Skills",
+      content: <CertificatesSkills/>
     },
     Help: {
       name: "Help",
