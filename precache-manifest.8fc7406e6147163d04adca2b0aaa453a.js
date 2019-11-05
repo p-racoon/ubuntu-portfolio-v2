@@ -1,19 +1,19 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "6c54295b1f2002b3e7ab162dd3d7ce19",
+    "revision": "01daad5b1f407364b34d6ca7033a706b",
     "url": "/ubuntu-portfolio-v2/index.html"
   },
   {
-    "revision": "031e617dedb2d00f00a4",
-    "url": "/ubuntu-portfolio-v2/static/css/main.00f80485.chunk.css"
+    "revision": "3b492c878e5a22fec327",
+    "url": "/ubuntu-portfolio-v2/static/css/main.3d575184.chunk.css"
   },
   {
-    "revision": "f4dd992986b265d0743b",
-    "url": "/ubuntu-portfolio-v2/static/js/2.8d03cf80.chunk.js"
+    "revision": "6bf41ef7f5b36d2c95d9",
+    "url": "/ubuntu-portfolio-v2/static/js/2.de705637.chunk.js"
   },
   {
-    "revision": "031e617dedb2d00f00a4",
-    "url": "/ubuntu-portfolio-v2/static/js/main.0da7f9fe.chunk.js"
+    "revision": "3b492c878e5a22fec327",
+    "url": "/ubuntu-portfolio-v2/static/js/main.cb64cfc0.chunk.js"
   },
   {
     "revision": "b000abf517c9a4ecd2aa",
@@ -24,8 +24,28 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/ubuntu-portfolio-v2/static/media/about.b571d69f.svg"
   },
   {
+    "revision": "211ee355e539c613ab810fe42c869f66",
+    "url": "/ubuntu-portfolio-v2/static/media/freelancer.211ee355.png"
+  },
+  {
+    "revision": "36341b939ca51bde69726297a211574e",
+    "url": "/ubuntu-portfolio-v2/static/media/goa-account-facebook.36341b93.svg"
+  },
+  {
+    "revision": "953f3b4ae1d68dc5067e8fcce9e20091",
+    "url": "/ubuntu-portfolio-v2/static/media/goa-account-google.953f3b4a.svg"
+  },
+  {
     "revision": "ea2645aee2b16e4518822fa6fc66dc89",
     "url": "/ubuntu-portfolio-v2/static/media/open-menu-symbolic.ea2645ae.svg"
+  },
+  {
+    "revision": "351ee4413daa87b0ad9d65a708df2449",
+    "url": "/ubuntu-portfolio-v2/static/media/org.gnome.Evince.351ee441.svg"
+  },
+  {
+    "revision": "5f3d47709afabf77f748cb3acf37c3ce",
+    "url": "/ubuntu-portfolio-v2/static/media/pestotech.5f3d4770.png"
   },
   {
     "revision": "39dff610661b307f38a28b07ff4c8ec0",
@@ -34,6 +54,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "106b7c9b6c3e451399fd82118dc38b5b",
     "url": "/ubuntu-portfolio-v2/static/media/system-shutdown-symbolic.106b7c9b.svg"
+  },
+  {
+    "revision": "337f27433c0dbf0481a06859f4927ca8",
+    "url": "/ubuntu-portfolio-v2/static/media/udacity.337f2743.png"
   },
   {
     "revision": "19fbf4b30714ca9cbfed23dd4747917f",
