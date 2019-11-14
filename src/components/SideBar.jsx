@@ -33,7 +33,7 @@ export default function SideBar(props) {
     },
     {
       name: 'Experience',
-      altText: 'Proffessional Experience',
+      altText: 'Professional Experience',
       src: technicalSkills,
     },
     {

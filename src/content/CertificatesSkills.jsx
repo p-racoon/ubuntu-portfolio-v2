@@ -17,7 +17,7 @@ export default function WebExp() {
             <img src={awsIcon} alt="AWS Logo" />
           </div>
           <div className="ExpContent">
-            <h3>AWS Technical Proffessional</h3>
+            <h3>AWS Technical Professional</h3>
             <p>
               In this course I learnt about AWS products, services, and common solutions. I learnt
               the fundamentals of identifying AWS services, their purpose and how and when they can
