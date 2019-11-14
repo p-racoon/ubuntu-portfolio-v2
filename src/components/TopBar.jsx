@@ -1,8 +1,9 @@
-import React from "react";
-import { Link } from "react-router-dom";
-import "./TopBar.css";
-import menuSymbol from "./../images/icons/system/open-menu-symbolic.svg";
-import shutDownSymbol from "./../images/icons/system/system-shutdown-symbolic.svg";
+import React from 'react';
+import { Link } from 'react-router-dom';
+import './TopBar.css';
+import menuSymbol from './../images/icons/system/open-menu-symbolic.svg';
+import shutDownSymbol from './../images/icons/system/system-shutdown-symbolic.svg';
+import Clock from 'react-live-clock';
 
 export default function TopBar() {
   return (
@@ -15,10 +16,7 @@ export default function TopBar() {
         <span>Prasham's Portfolio</span>
       </div>
       <div className="centeredBarContent">
-        Sep {new Date().getDate()}{" "}
-        {`${String(new Date().getHours()).padStart(2, "0")}:${String(
-          new Date().getMinutes()
-        ).padStart(2, "0")}`}
+        <Clock format={'MMM DD HH:mm'} ticking={true} />
       </div>
       <div className="rightBarContent">
         <a href="https://linkedin.com/in/prashesh09/" target="_blank" rel="noopener noreferrer">
