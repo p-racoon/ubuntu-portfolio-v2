@@ -55,8 +55,8 @@ export default function SideBar(props) {
       <div className="lastAppIcon">
         <SideBarAppIcons
           iconDetail={{
-            name: 'Help',
-            altText: 'MyProjects',
+            name: 'Projects',
+            altText: 'Projects',
             src: projectMenuSidebarIcon,
           }}
         />
