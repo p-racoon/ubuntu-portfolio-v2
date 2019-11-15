@@ -10,3 +10,6 @@ h4{
 .ContactBody a {
   text-decoration: none;
 }
+.ContactBody i{
+  margin-right: 10px;
+}

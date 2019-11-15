@@ -22,11 +22,6 @@ export default function SideBar(props) {
     //   src: "/images/icons/app/google-chrome.svg"
     // },
     {
-      name: 'ContactMe',
-      altText: 'Contacts & Social Links',
-      src: contactMeSidebarIcon,
-    },
-    {
       name: 'Projects',
       altText: 'Projects',
       src: projectsIcon,
@@ -40,6 +35,11 @@ export default function SideBar(props) {
       name: 'CertificatesSkills',
       altText: 'Certificates and Skills',
       src: certificatesIcon,
+    },
+    {
+      name: 'ContactMe',
+      altText: 'Contacts & Social Links',
+      src: contactMeSidebarIcon,
     },
     {
       name: 'Help',

@@ -13,7 +13,8 @@ export default function TopBar() {
           {/* <i className="fas fa-bars " /> */}
           <img src={menuSymbol} />
         </a>
-        <span>Prasham's Portfolio</span>
+        <span>Prasham's Portfolio </span>
+        {/* <i class="fa fa-question-circle" aria-hidden="true"></i> */}
       </div>
       <div className="centeredBarContent">
         <Clock format={'MMM DD HH:mm'} ticking={true} />
