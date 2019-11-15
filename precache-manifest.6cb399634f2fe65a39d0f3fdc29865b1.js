@@ -1,23 +1,23 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "01daad5b1f407364b34d6ca7033a706b",
+    "revision": "d7280a338ee8c971ccef20aa2ea3dab9",
     "url": "/ubuntu-portfolio-v2/index.html"
   },
   {
-    "revision": "3b492c878e5a22fec327",
-    "url": "/ubuntu-portfolio-v2/static/css/main.3d575184.chunk.css"
+    "revision": "7177981f5e67a1adabe8",
+    "url": "/ubuntu-portfolio-v2/static/css/main.bbb8f3df.chunk.css"
   },
   {
-    "revision": "6bf41ef7f5b36d2c95d9",
-    "url": "/ubuntu-portfolio-v2/static/js/2.de705637.chunk.js"
+    "revision": "1d7c1cb7dbb9dd84e999",
+    "url": "/ubuntu-portfolio-v2/static/js/2.8b37f1fd.chunk.js"
   },
   {
-    "revision": "3b492c878e5a22fec327",
-    "url": "/ubuntu-portfolio-v2/static/js/main.cb64cfc0.chunk.js"
+    "revision": "7177981f5e67a1adabe8",
+    "url": "/ubuntu-portfolio-v2/static/js/main.36fb57e0.chunk.js"
   },
   {
-    "revision": "b000abf517c9a4ecd2aa",
-    "url": "/ubuntu-portfolio-v2/static/js/runtime~main.02a49cdb.js"
+    "revision": "8cb77b248296321a3572",
+    "url": "/ubuntu-portfolio-v2/static/js/runtime~main.32f6e552.js"
   },
   {
     "revision": "b571d69f726c7bddec9fa0f283d1c0c4",
