@@ -24,7 +24,7 @@ export default function About() {
         <h2>I am Prasham Ashesh</h2>
         <h3>Front-end Engineer, focused on creating beautiful User Experiences.</h3>
         <h3>
-          Currently undergoing{' '}
+          Recently graduated{' '}
           <a href="https://www.pesto.tech/" target="_blank" rel="noopener noreferrer">
             Pesto Tech's Career Accelerator Program.
           </a>
@@ -33,9 +33,8 @@ export default function About() {
         <h3>
           View my full resume{' '}
           <a href="http://bit.ly/PrashamPestoResume" target="_blank" rel="noopener noreferrer">
-            here
+            here.
           </a>
-          .
         </h3>
       </Typist>
     </div>
