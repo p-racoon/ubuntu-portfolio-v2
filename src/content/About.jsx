@@ -32,9 +32,10 @@ export default function About() {
         <h3>Available for Full-time Remote opportunities in web development.</h3>
         <h3>
           View my full resume{' '}
-          <a href="http://bit.ly/PrashamCv" target="_blank" rel="noopener noreferrer">
+          <a href="http://bit.ly/PrashamPestoResume" target="_blank" rel="noopener noreferrer">
             here
           </a>
+          .
         </h3>
       </Typist>
     </div>
