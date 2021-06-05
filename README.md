@@ -1,4 +1,4 @@
-This project was started as Personal Portfolio to showcase my skills as a Web Developer. It was initially developed as a part of Pesto Tech's 1st month's curriculum. Learnt a lot's in 3 months of [Pesto Tech's Career Accelerator Program](http://web.archive.org/web/20190606070237/https://pesto.tech/) became a life long learner. :)
+This project was started as Personal Portfolio to showcase my skills as a Web Developer. It was initially developed as a part of Pesto Tech's 1st month's curriculum. Learned a lot in 3 months of [Pesto Tech's Career Accelerator Program](http://web.archive.org/web/20190606070237/https://pesto.tech/) became a life long learner. :)
 
 Click here to see a live version: https://p-racoon.github.io/ubuntu-portfolio-v2/
 
