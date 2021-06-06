@@ -11,22 +11,31 @@ export default function WebExp() {
     <div className="WebExpBody">
       <h1>Experience</h1>
       <ListGroup>
-        <div className="ExpCard">
+      <div className="ExpCard">
           <div className="ExpImage">
-            <img src={pestotechIcon} alt="AWS Logo" />
+          <img src="https://logo.clearbit.com/allbound.com" alt="Allbound Logo" />
           </div>
           <div className="ExpContent">
-            <h3>Pesto Tech</h3>
-            <p>Aug,2019 - Present</p>
+            <h3>Allbound Inc.</h3>
+            <p>Jan, 2020 - Present</p>
           </div>
         </div>
         <div className="ExpCard">
           <div className="ExpImage">
-            <img src={infosysIcon} alt="AWS Logo" />
+            <img src={pestotechIcon} alt="Pesto Tech Logo" />
+          </div>
+          <div className="ExpContent">
+            <h3>Pesto Tech</h3>
+            <p>Aug, 2019 - Dec, 2020</p>
+          </div>
+        </div>
+        <div className="ExpCard">
+          <div className="ExpImage">
+            <img src={infosysIcon} alt="Infosys Logo" />
           </div>
           <div className="ExpContent">
             <h3>Infosys Pvt. Ltd.</h3>
-            <p>Dec, 2017 - June,2019</p>
+            <p>Dec, 2017 - June, 2019</p>
           </div>
         </div>
         <div className="ExpCard">

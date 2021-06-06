@@ -37,10 +37,10 @@ export default function WebExp() {
         </div>
         <div className="ExpCard">
           <div className="ExpImage">
-            <img src={udacityIcon} alt="Udacity Logo" />
+          <img src="https://logo.clearbit.com/udacity.com" alt="Udacity Logo" />
           </div>
           <div className="ExpContent">
-            <h3>Front-End Web Developer Nanodegree</h3>
+            <h3>Udacity Front-End Web Developer Nanodegree</h3>
             <p>
               Learnt in detail about the Frontend Ecosystem. Built several projects on the way.
               Focus was on Vanilla javascript.
@@ -70,7 +70,7 @@ export default function WebExp() {
               Proficient with React, Have worked on React Hooks. Created the frontend for a Plug &
               Play e-commerce Website, at Infosys.
               <br />
-              Experience: 8 months
+              {/* Experience: 8 months */}
             </p>
           </div>
         </div>
@@ -84,7 +84,7 @@ export default function WebExp() {
               Coming from Java, and C background I instantly fell in love with javascript. Working
               on frontend has been my favorite since then.
               <br />
-              Experience: 3 years
+              {/* Experience: 3 years */}
             </p>
           </div>
         </div>
@@ -98,7 +98,7 @@ export default function WebExp() {
               Used PHP to create Shopping cart at Infosys for Client "AWS". Used it to Develop a
               website for a Freelancing Client.
               <br />
-              Experience: 5 months
+              {/* Experience: 5 months */}
             </p>
           </div>
         </div>
