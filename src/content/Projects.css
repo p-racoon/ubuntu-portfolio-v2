@@ -17,8 +17,12 @@
   align-self: flex-start;
 }
 .ExpImage img {
-  max-height: auto;
-  max-width: 100%;
+  /* max-height: auto;
+  max-width: 100%; */
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  border-radius: 4px;
   /* width: 60%; */
   /* max-width: 200px; */
 }
@@ -26,4 +30,9 @@
   flex: 10;
   flex-direction: column;
   padding-left: 10px;
+}
+
+.techbadge {
+  height: 32px;
+  width: 32px;
 }
