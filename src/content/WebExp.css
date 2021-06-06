@@ -1,24 +1,30 @@
 .WebExpBody {
-  display: flex;
-  color: #333333;
-  flex-direction: column;
-  justify-content: center;
-  align-items: center;
-  width: 70%;
-  margin-left: 15%;
-  margin-top: 10%;
+  text-align: left;
+  margin: 5% 10% 5% 10%;
+}
+.ExpCard a {
+  color: #f08763 !important;
+  text-decoration: none;
 }
 .ExpCard {
   display: flex;
   flex-direction: row;
-  margin: 5px;
 }
 .ExpImage {
-  text-align: center;
+  display: flex;
+  flex-direction: column;
+  flex: 2;
   align-items: center;
+  justify-content: center;
 }
 .ExpImage img {
-  /* height: 50px; */
-  width: 60%;
-  max-width: 200px;
+  max-height: auto;
+  max-width: 100%;
+  /* width: 60%; */
+  /* max-width: 200px; */
+}
+.ExpContent {
+  flex: 10;
+  flex-direction: column;
+  padding-left: 10px;
 }

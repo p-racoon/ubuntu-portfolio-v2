@@ -1,7 +1,15 @@
 .ContactBody {
-  text-align: center;
-  margin: 20px;
+  text-align: left;
+  margin: 5% 10% 5% 10%;  
+  /* padding: 10px; */
+}
+h4{
+  font-style: normal;
+  font-weight: normal;
 }
 .ContactBody a {
   text-decoration: none;
+}
+.ContactBody i{
+  margin-right: 10px;
 }

@@ -3,18 +3,24 @@
   flex-direction: column;
   align-content: center;
   justify-content: center;
-  text-align: center;
-  width: 80%;
-  height: 100%;
-  margin-left: 10%;
-  margin-right: 10%;
-  color: #333333;
+  text-align: left;
+  width: 70%;
+  margin: 10% 15%;
+  color: #333;
+}
+.whoami{
+  background-color: black;
+  color: whitesmoke;
+}
+.AboutBody a{
+  color: #F08763;
+  text-decoration: none;
 }
 .ProfilePic {
-  margin-top: 20px;
   display: flex;
   justify-content: center;
   flex-direction: row;
+  margin-bottom: 10px;
 }
 .ProfilePic img {
   border: 1px solid #e95420;

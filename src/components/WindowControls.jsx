@@ -1,6 +1,10 @@
 import React from "react";
 import { Link } from "react-router-dom";
 import "./WindowControls.css";
+import windowMinimizeIcon from "./../images/icons/system/window-minimize-symbolic.svg"
+import windowMaximizeIcon from "./../images/icons/system/window-maximize-symbolic.svg"
+import windowRestoreIcon from "./../images/icons/system/window-restore-symbolic.svg"
+import windowCloseIcon from "./../images/icons/system/window-close-symbolic.svg"
 
 export default function WindowControls(props) {
   return (
@@ -11,21 +15,21 @@ export default function WindowControls(props) {
       >
         <img
           className="WindowControlIcon"
-          src="/images/icons/system/window-minimize-symbolic.svg"
+          src={windowMinimizeIcon}
           alt={`minimize ${props.windowName}`}
         />
       </div>
       {/* <div className="WindowControlButton">
         <img
           className="WindowControlIcon"
-          src="/images/icons/system/window-maximize-symbolic.svg"
+          src={windowMaximizeIcon}
           alt={`close ${props.windowName}`}
         />
       </div>
       <div className="WindowControlButton">
         <img
           className="WindowControlIcon"
-          src="/images/icons/system/window-restore-symbolic.svg"
+          src={windowRestoreIcon}
           alt={`restore ${props.windowName}`}
         />
       </div> */}
@@ -33,7 +37,7 @@ export default function WindowControls(props) {
         <Link to="/desktop">
           <img
             className="WindowControlIcon"
-            src="/images/icons/system/window-close-symbolic.svg"
+            src={windowCloseIcon}
             alt={`close ${props.windowName}`}
           />
         </Link>
